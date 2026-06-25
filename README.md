@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/ML-Logistic%20Regression-orange?style=flat)
 ![NLP](https://img.shields.io/badge/NLP-TF--IDF%20%7C%20NLTK-green?style=flat)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
+![Status](https://img.shields.io/badge/Status-Paused-brightgreen?style=flat)
 
 > A machine learning system that detects phishing messages using Natural Language Processing — classifying text as spam or legitimate using TF-IDF vectorization and Logistic Regression.
 
